@@ -4,7 +4,7 @@ node_js:
 branches:
    only:
    - development
- notifications:
+notifications:
     email:
       recipients:
         - calamcarroll@gmail.com      # uae your own
